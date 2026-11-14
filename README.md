@@ -1,3 +1,9 @@
+> Collaborative project. My contributions: [commits](https://github.com/Maulikbhardwaj/OS-project-/commits?author=JaskiJo) · [pull requests](https://github.com/Maulikbhardwaj/OS-project-/pulls?q=author:JaskiJo).
+>  Original repo: https://github.com/Maulikbhardwaj/OS-project-
+
+
+
+
 # Operating Systems & Networking Simulator
 
 This repository contains two core modules designed for Operating Systems and Networking coursework. It simulates core operating system concepts including memory management, paging algorithms, and network subnet calculations. This project demonstrates fundamental OS principles through practical implementations and visualizations.
